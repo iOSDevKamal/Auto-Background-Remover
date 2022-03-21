@@ -1,4 +1,4 @@
-# Auto-Background-Remover
+# Auto Background Remover
 
 Motivation behind this project was to implement auto-crop functionality. A app is implemented by applying image segmentation concept, and has ability to remove background from any given image. 
 
